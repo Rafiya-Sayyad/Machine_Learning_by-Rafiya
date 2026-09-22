@@ -53,10 +53,10 @@ Regression vs Classification.<br>
 How datasets are prepared.<br>
 How Machine Learning models are trained.<br>
 How predictions are made.<br>
-How model performance is evaluated.
+How model performance is evaluated.<br>
 When different algorithms can be used.
 
-Author
+### Author
 Rafiya Sayyad
 B.Tech — Computer Science & Engineering
 Specialization: Cyber Security.
