@@ -39,7 +39,7 @@ Making classification predictions.<br>
 Evaluating classification performance.<br>
 Notebook: Logistic_Regression.ipynb.
 
-#Technologies & Libraries:
+# Technologies & Libraries:
 Python.<br>
 Jupyter Notebook.<br>
 NumPy.<br>
@@ -47,7 +47,7 @@ Pandas.<br>
 Matplotlib.<br>
 Scikit-learn.
 
-#Learning Objectives:
+# Learning Objectives:
 What Machine Learning is..<br>
 Regression vs Classification.<br>
 How datasets are prepared.<br>
